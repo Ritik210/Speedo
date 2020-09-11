@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 85d16c7b34341bf458e6d972c1377f5e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Boat
+    100002: //RootNode
+    100004: Buoy
+    100006: Extras
+    100008: Motor
+    100010: Will
+    100012: Wood
+    400000: Boat
+    400002: //RootNode
+    400004: Buoy
+    400006: Extras
+    400008: Motor
+    400010: Will
+    400012: Wood
+    2100000: Down
+    2100002: Blue
+    2100004: Ring
+    2100006: Inner
+    2100008: Wood
+    2100010: Material
+    2100012: will_jean
+    2100014: Will_Skin
+    2100016: gubbkeps1
+    2100018: will_tshirt
+    2100020: will_shoes
+    2300000: Boat
+    2300002: Buoy
+    2300004: Extras
+    2300006: Motor
+    2300008: Will
+    2300010: Wood
+    2300012: //RootNode
+    3300000: Boat
+    3300002: Buoy
+    3300004: Extras
+    3300006: Motor
+    3300008: Will
+    3300010: Wood
+    3300012: //RootNode
+    4300000: Boat
+    4300002: Extras
+    4300004: Will
+    4300006: Motor
+    4300008: Wood
+    4300010: Buoy
+    6400000: Boat
+    6400002: Buoy
+    6400004: Extras
+    6400006: Motor
+    6400008: Will
+    6400010: Wood
+    6400012: //RootNode
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
