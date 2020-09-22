@@ -1,2 +1,2 @@
 # Speedo
-This is a boat game which I have developed in
+This is a boat game which I have developed in Unity
