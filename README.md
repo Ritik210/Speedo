@@ -1,2 +1,2 @@
 # Speedo
-This is a boat game which I 
+This is a boat game which I have
