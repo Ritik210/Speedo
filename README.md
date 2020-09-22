@@ -1,2 +1,2 @@
 # Speedo
-This is a boat
+This is a boat game
